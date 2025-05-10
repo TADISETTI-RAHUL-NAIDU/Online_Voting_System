@@ -1,0 +1,19 @@
+
+.form-container {
+    max-width: 1000px;
+    margin: 70px auto;
+    background-color: #fff;
+    padding: 70px;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #343a40;
+}
+
+.btn-primary {
+    width: 100%;
+}
